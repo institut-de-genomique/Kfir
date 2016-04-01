@@ -8,6 +8,8 @@ Shannon entropy is a way
         Usage : kfir -g <genome file> -r <reads file> -o <output prefix> {Options}
         !! Note : Arguments with * are required, the other are optionnal !!
 #Option
+the script needs the argument with '*' the other are optionnal.
+
         *     -g  <str> : reference genome/chromosome/scaffold
         *     -r  <str> : first file of reads - or list of files (.fq or .fq.gz)
               -p  <str> : second file of reads if paired-end files - or list of files (.fq or .fq.gz)
@@ -33,7 +35,12 @@ kfir [a] genoscope [.] cns [.] fr
 
 #Installation
 Download the git repository
+
 make
+
+kfir -h
+
+or run kfir : kfir -g <genome file> -r <reads file> -o <output prefix> {Options}
 
 
 #Acknowledgments
