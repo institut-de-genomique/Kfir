@@ -40,7 +40,7 @@ make
 
 kfir -h
 
-or run kfir : kfir -g <genome file> -r <reads file> -o <output prefix> {Options}
+or run kfir : *kfir -g <genome file> -r <reads file> -o <output prefix> {Options}*
 
 
 #Acknowledgments
