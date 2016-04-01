@@ -30,8 +30,7 @@ The script is written in c++, it uses the library boost (http://www.boost.org/)
 #License
 Kfir is distributed open-source under CeCILL FREE SOFTWARE LICENSE. Check out http://www.cecill.info/ for more information about the contents of this license.
 
-#Contact
-kfir [a] genoscope [.] cns [.] fr
+
 
 #Installation
 Download the git repository
@@ -42,6 +41,8 @@ kfir -h
 
 or run kfir : `kfir -g <genome file> -r <reads file> -o <output prefix> {Options}`
 
+#Contact
+kfir [a] genoscope [.] cns [.] fr
 
 #Acknowledgments
 This work was financially supported by the Genoscope, Institut de Genomique, CEA and Agence Nationale de la Recherche (ANR), and France Génomique (ANR-10-INBS-09-08).
