@@ -2,7 +2,7 @@
 
 Kfir is a program which compare a set of reads with a reference genome and yields the subset belonging to it.
 Kfir takes in account complexity of kmer word. The complexity could be dust or shannon entropy.
-Shannon entropy is a way
+
 
 #Running Kfir
         Usage : kfir -g <genome file> -r <reads file> -o <output prefix> {Options}
