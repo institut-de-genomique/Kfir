@@ -6,7 +6,7 @@ Kfir takes in account complexity of kmer word. The complexity could be dust or s
 
 #Running Kfir
         Usage : kfir -g <genome file> -r <reads file> -o <output prefix> {Options}
-        !! Note : Arguments with * are required, the other are optionnal !!
+       
 #Option
 the script needs the argument with '*' the other are optionnal.
 
